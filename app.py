@@ -294,7 +294,7 @@ def set_bg_from_url(url, opacity=1):
         <div style='visibility: visible;margin-top:7rem;justify-content:center;display:flex;'>
             <p style="font-size:1.1rem;">
                 Made by Abhishek Rana<br>
-                Class roll number 4
+               
                 &nbsp;
                 <a href="https://www.linkedin.com/in/abhishek-rana-448a3222b">
                     <svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" fill="white" class="bi bi-linkedin" viewBox="0 0 16 16">
