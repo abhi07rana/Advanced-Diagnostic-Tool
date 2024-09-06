@@ -288,7 +288,7 @@ if (selected == "Parkinsons Prediction"):
 
 def set_bg_from_url(url, opacity=1):
     
-    footer = """
+    footer = 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
     <footer>
         <div style='visibility: visible;margin-top:7rem;justify-content:center;display:flex;'>
@@ -310,7 +310,7 @@ def set_bg_from_url(url, opacity=1):
             </p>
         </div>
     </footer>
-"""
+
     st.markdown(footer, unsafe_allow_html=True)
     
     
